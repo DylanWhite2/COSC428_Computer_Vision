@@ -4,7 +4,7 @@
 
 python3 run.py xxx.png
 
-e.g. python3 run.py 16_people.png
+e.g. python3 run.py img/16_people.png
 
 
 Press any key to close window....
